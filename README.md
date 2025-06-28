@@ -22,11 +22,11 @@
 ### Интерактивная установка
 ```bash
 # Скачайте установщик
-curl -O https://raw.githubusercontent.com/bramox/glideproxy/main/universal-proxy-installer.sh
+curl -O https://raw.githubusercontent.com/AlexSmol321/glideproxy/refs/heads/main/universal-proxy-installer-v1.3.1-as.sh
 
 # Запустите установку
-chmod +x universal-proxy-installer.sh
-sudo ./universal-proxy-installer.sh
+chmod +x universal-proxy-installer-v1.3.1-as.sh
+sudo ./universal-proxy-installer-v1.3.1-as.sh
 ```
 
 ### Автоматическая установка

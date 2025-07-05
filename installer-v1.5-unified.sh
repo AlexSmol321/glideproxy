@@ -1,6 +1,6 @@
 #!/bin/bash
 # =====================================================================
-# UNIVERSAL REVERSE PROXY INSTALLER — Minimal Stability Edition
+# UNIVERSAL REVERSE PROXY INSTALLER — Minimal Stability Edition1
 # Версия: 1.5-unified  (Node.js 20 LTS | dual-cert LE/Timeweb | auto-renew)
 # Автор  : Proxy Deployment System
 #
